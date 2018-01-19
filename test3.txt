@@ -1,1 +1,2 @@
 test-new feature
+test-new before reset
